@@ -2,4 +2,16 @@ h3 {
     color: darkviolet;
 }.head-3 {
     color:mediumorchid;
+}a.link {
+    color:teal;
+}a.link:hover {
+    color:crimson;
+}span:first-child {
+    color:mediumblue;
+}h2 {
+    display: none;
+}.show:hover h2{
+    display: block;
+}.about .about-text {
+    color:green;
 }
